@@ -1,10 +1,8 @@
 # Bộ skill vẽ Diagram cho BA — Diagram Skills Package
 
-> 11 skill vẽ sơ đồ nghiệp vụ cho **IT Business Analyst**, đóng gói sẵn để chia sẻ. Bạn mô tả nghiệp vụ bằng lời — skill hỏi lại chỗ còn thiếu, vẽ sơ đồ đúng loại, tự kiểm cú pháp (compile-check) rồi render ra ảnh. Không phải nhớ cú pháp Mermaid/PlantUML/D2/BPMN.
+> 11 skill vẽ sơ đồ nghiệp vụ cho **IT BA**, đóng gói sẵn để chia sẻ. Bạn mô tả nghiệp vụ bằng lời — skill hỏi lại chỗ còn thiếu, vẽ sơ đồ đúng loại, tự kiểm cú pháp (compile-check) rồi render ra ảnh. Không phải nhớ cú pháp Mermaid/PlantUML/D2/BPMN.
 >
 > Gói này viết cho **Claude Code**, kèm hướng dẫn **port sang Codex CLI** và **Google Antigravity IDE**.
-
-Bộ này là một phần của bộ công cụ BA-KIT dạy trong khóa **AI4BA** — [ai4ba.com](https://ai4ba.com). Xem mục [Về AI4BA](#về-ai4ba) ở cuối.
 
 ---
 
